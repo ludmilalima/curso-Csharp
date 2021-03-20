@@ -1,6 +1,7 @@
 # curso-Csharp
 
 ## 1st) git-lessons
+"git init" to create a new repository
 "git status" to show the synchronization file's status \
 "git add ." to track all untracked and modified listed files \
 "git add <file-name>..." to track just this individual file \
