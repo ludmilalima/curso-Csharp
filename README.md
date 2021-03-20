@@ -16,4 +16,6 @@ and -u or --upstream set these arguments to pushing to by default\
 "git checkout -b 'feature-name'" checkout to switch between branches and -b to create a new one\
 "git diff 'branch-name'" to show the difference between the files of the actual branch 
 and the referred branch\
-"git pull" to load the recent remote repo
+"git pull" to load the recent remote repo\
+"git branch -d 'branch-name'" to delete an already merged branch
+"git merge 'branch-name'" to merge a referred branch into the actual branch
