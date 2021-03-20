@@ -10,4 +10,7 @@
 "git push" to load locals files to the remote repository
 "git push -u 'location-of-git-repo' 'branch-to-push-to'"  e.g. origin master and -u or --upstream 
     set these arguments to pushing to by default\
-"git submodule add 'url' 'folder-name'" to create a folder into the actual repo
+"git submodule add 'url' 'folder-name'" to create a folder into the actual repo\
+"git branch" to show all current available branch and the * identifies the actual branches\
+"git checkout -b 'feature-name'" checkout to switch between branches and -b to create a new one\
+"git "
