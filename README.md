@@ -19,4 +19,9 @@ and -u or --upstream set these arguments to pushing to by default\
 and the referred branch\
 "git pull" to load the recent remote repo\
 "git branch -d 'branch-name'" to delete an already merged branch
-"git merge 'branch-name'" to merge a referred branch into the actual branch
+"git merge 'branch-name'" to merge a referred branch into the actual branch\
+"git reset" to unstage not commited modifications\
+"git reset HEAD~1" to uncommit the referred commit (last but one)\
+"git log" to show a log of all your commits\
+"git reset hard #commit" to undo commits\
+"git fork" to made a identical copy of the actual repo
