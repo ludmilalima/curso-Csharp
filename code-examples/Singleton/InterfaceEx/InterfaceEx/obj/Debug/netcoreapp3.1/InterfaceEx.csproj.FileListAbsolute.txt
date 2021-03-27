@@ -1,0 +1,13 @@
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.exe
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.deps.json
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.runtimeconfig.json
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.runtimeconfig.dev.json
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.dll
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\bin\Debug\netcoreapp3.1\InterfaceEx.pdb
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.csprojAssemblyReference.cache
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.AssemblyInfoInputs.cache
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.AssemblyInfo.cs
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.dll
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.pdb
+C:\Users\ludmi\source\repos\curso-Csharp\code-examples\Singleton\InterfaceEx\InterfaceEx\obj\Debug\netcoreapp3.1\InterfaceEx.genruntimeconfig.cache
