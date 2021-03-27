@@ -1,0 +1,13 @@
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\bin\Debug\netcoreapp3.1\aula23.exe
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\bin\Debug\netcoreapp3.1\aula23.deps.json
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\bin\Debug\netcoreapp3.1\aula23.runtimeconfig.json
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\bin\Debug\netcoreapp3.1\aula23.runtimeconfig.dev.json
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\bin\Debug\netcoreapp3.1\aula23.dll
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\bin\Debug\netcoreapp3.1\aula23.pdb
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\obj\Debug\netcoreapp3.1\aula23.csprojAssemblyReference.cache
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\obj\Debug\netcoreapp3.1\aula23.AssemblyInfoInputs.cache
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\obj\Debug\netcoreapp3.1\aula23.AssemblyInfo.cs
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\obj\Debug\netcoreapp3.1\aula23.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\obj\Debug\netcoreapp3.1\aula23.dll
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\obj\Debug\netcoreapp3.1\aula23.pdb
+C:\Users\ludmi\source\repos\curso-Csharp\aula23\aula23\aula23\obj\Debug\netcoreapp3.1\aula23.genruntimeconfig.cache
