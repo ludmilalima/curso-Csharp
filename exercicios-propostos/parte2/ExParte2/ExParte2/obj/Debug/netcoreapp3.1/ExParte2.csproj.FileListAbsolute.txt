@@ -1,0 +1,13 @@
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\bin\Debug\netcoreapp3.1\ExParte2.exe
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\bin\Debug\netcoreapp3.1\ExParte2.deps.json
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\bin\Debug\netcoreapp3.1\ExParte2.runtimeconfig.json
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\bin\Debug\netcoreapp3.1\ExParte2.runtimeconfig.dev.json
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\bin\Debug\netcoreapp3.1\ExParte2.dll
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\bin\Debug\netcoreapp3.1\ExParte2.pdb
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\obj\Debug\netcoreapp3.1\ExParte2.csprojAssemblyReference.cache
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\obj\Debug\netcoreapp3.1\ExParte2.AssemblyInfoInputs.cache
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\obj\Debug\netcoreapp3.1\ExParte2.AssemblyInfo.cs
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\obj\Debug\netcoreapp3.1\ExParte2.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\obj\Debug\netcoreapp3.1\ExParte2.dll
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\obj\Debug\netcoreapp3.1\ExParte2.pdb
+C:\Users\ludmi\source\repos\curso-Csharp\exercicios-propostos\parte2\ExParte2\ExParte2\obj\Debug\netcoreapp3.1\ExParte2.genruntimeconfig.cache
